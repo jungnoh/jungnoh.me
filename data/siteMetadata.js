@@ -1,11 +1,11 @@
 const siteMetadata = {
-  title: "jungnoh's blog",
+  title: "jungnoh",
   author: "Junghoon Noh",
-  headerTitle: "jungnoh's blog",
+  headerTitle: "jungnoh",
   language: "ko-kr",
   theme: "system", // system, dark or light
   siteUrl: "https://jungnoh.me/",
-  siteRepo: "https://github.com/jungnoh/blog",
+  siteRepo: "https://github.com/jungnoh/jungnoh.me",
   siteLogo: "",
   image: "",
   socialBanner: "/static/images/twitter-card.png",
@@ -31,7 +31,7 @@ const siteMetadata = {
     utterancesConfig: {
       // Visit the link below, and follow the steps in the 'configuration' section
       // https://utteranc.es/
-      repo: "jungnoh/blog",
+      repo: "jungnoh/jungnoh.me",
       issueTerm: "pathname", // supported options: pathname, url, title
       label: "", // label (optional): Comment 💬
       // theme example: github-light, github-dark, preferred-color-scheme
